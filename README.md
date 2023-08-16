@@ -1,5 +1,6 @@
 ### Hi guys👋 I´m Nicolas Andres
 
+ 🌱 I’m currently learning JavaScript, CSS, HTML, C++
 <!--
 **NinAndres/NinAndres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
