@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nicolas_andresz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-andres-a3b885267/)
 
 ## Olá, devs!! 👋
-É por aqui onde deixo alguns rastros do que estamos planejando e parte do que está feito!
+É por aqui onde deixo alguns rastros do que estamos planejando e parte do que está em produção!
 
 <p align="left">
   <img src="https://media1.tenor.com/m/XPRG-4ujVMIAAAAd/cat-work-in-progress.gif" width="350">
