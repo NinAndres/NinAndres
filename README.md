@@ -6,12 +6,8 @@
 ## Olá, devs!! 👋
 É por aqui onde deixo alguns rastros do que estamos planejando e parte do que está em produção!
 
-<p align="left">
-  <img src="https://media1.tenor.com/m/XPRG-4ujVMIAAAAd/cat-work-in-progress.gif" width="350">
-</p>
-
 ### 💻 Tecnologias e Ferramentas
-![C](https://skillicons.dev/icons?i=c,js,java,cs,mysql&theme=light)
+![C](https://skillicons.dev/icons?i=cs,java,dotnet,spring&theme=light)
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NinAndres&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
