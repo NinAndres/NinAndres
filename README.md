@@ -7,8 +7,8 @@ Sou estudante de **Engenharia de Software**, atualmente no **5º período de 10*
 
 ### 💻 Tecnologias e Ferramentas  
 ![C#](https://skillicons.dev/icons?i=cs)
-![Java](https://skillicons.dev/icons?i=java)
 ![.NET](https://skillicons.dev/icons?i=dotnet)
+![Java](https://skillicons.dev/icons?i=java)
 ![Spring](https://skillicons.dev/icons?i=spring)
 
 <hr>
