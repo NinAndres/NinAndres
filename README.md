@@ -1,6 +1,6 @@
 # Olá 👋, Me chamo Nicolas Andres Kurek
 
-Sou estudante de **Engenharia de Software**, atualmente no **5º período de 10**, em constante evolução e aprendizado. Estou em busca de **novos desafios profissionais** onde eu possa aplicar meus conhecimentos, crescer com o time e contribuir com soluções criativas e eficientes.
+Sou estudante de **Engenharia de Software**, atualmente no **6º período de 10**, em constante evolução e aprendizado. Estou em busca de **novos desafios profissionais** onde eu possa aplicar meus conhecimentos, crescer com o time e contribuir com soluções criativas e eficientes.
 
 É por aqui onde compartilho um pouco do que estou estudando, planejando e desenvolvendo — ideias em andamento, projetos em produção e tudo que representa meu crescimento na área da tecnologia.
 
