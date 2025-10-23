@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Engenharia de Software** — 6º período.  
 🚀 Em busca de **novos desafios profissionais**.  
-🛠️ Atualmente trabalhando com **C# (.NET)**, **Java (Spring)**.  
+🛠️ Atualmente trabalhando com **C# (.NET)**, **Java (Spring boot)**.  
 💡 É por aqui onde compartilho um pouco do que estou estudando, planejando e desenvolvendo.
 
 ## 🛠️ Tecnologias e Ferramentas
