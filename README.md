@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Nicolas Andres Kurek
 
-🎓 Estudante de **Engenharia de Software** — 6º período.  
+🎓 Estudante de **Engenharia de Software** — 7º período.  
 🚀 Em busca de **novos desafios profissionais**.  
 🛠️ Atualmente trabalhando com **C# (.NET)**, **Java (Spring Boot)**.  
 💡 É por aqui onde compartilho um pouco do que estou estudando, planejando e desenvolvendo.
